@@ -43,7 +43,7 @@
     "style-loader": "0.23.1",
     "to-string-loader": "1.1.5",
     "uuid": "3.1.0",
-    "validator": "11.0.0",
+    "validator": "13.7.0",
     "webpack": "4.35.0",
     "webpack-dev-server": "^3.7.2"
   },
